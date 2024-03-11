@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heightSetting {
+  height: 80vh;
+}
+.heightSetting div{
+  color: white;
+  font-size: 10rem;
+}
